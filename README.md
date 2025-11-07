@@ -1,0 +1,2 @@
+# AirQuality-Spark-Big-Data
+Big Data analytics project designed to process, analyze, and visualize large-scale air quality datasets using technologies like PySpark, Hadoop, and Python. The system ingests real-world environmental data—such as PM2.5, CO₂, NO₂, and temperature readings—from multiple sources and applies distributed processing to uncover pollution trends, correlations, and city-level air quality insights. With interactive dashboards and data visualizations
