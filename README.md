@@ -9,6 +9,7 @@
 
 A **scalable Big Data–based air quality monitoring and visualization system** for India, built using **Apache Spark**, **AWS S3**, and **Streamlit**, covering data from **2016–2025**.  
 This project demonstrates **end-to-end Big Data engineering**, **data processing**, **machine learning**, and **visual analytics** on large-scale **OpenAQ** datasets.
+![WhatsApp Image 2025-10-30 at 14 17 23_e2f749d2](https://github.com/user-attachments/assets/3c4202b1-b42b-4a9d-9709-55a53b4b5eb3)
 
 ---
 
