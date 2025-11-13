@@ -82,7 +82,7 @@ Experience real-time air quality analytics with interactive maps, time-series vi
 
 ##  GitHub Repository Dashbaoard
 
-🔗 **[View Source Code on GitHub](https://github.com/salainimalan/air-quality-dashboard-india)**  
+🔗 **[View Dashboard Code on GitHub](https://github.com/salainimalan/air-quality-dashboard-india)**  
 
 **Includes:**
 - Data processing notebooks  
@@ -95,8 +95,8 @@ Experience real-time air quality analytics with interactive maps, time-series vi
 
 ## Contributors
 
-| Name | Roll No | Role |
-|------|----------|------|
+| Name | Roll No | 
+|------|----------|
 | **Salai Nimalan** | 23MIA1064 | 
 | **Aditya Rao B** | 23MIA1120 | 
 
@@ -105,11 +105,11 @@ Experience real-time air quality analytics with interactive maps, time-series vi
 
 ---
 
-## 🪪 License
+##  License
 
 This project is developed as part of an academic course and is open for educational and research purposes.  
 © 2025 — *All rights reserved by the contributors.*
 
 ---
 
-**🌿 “Empowering cleaner air through data-driven intelligence.”**
+** “Empowering cleaner air through data-driven intelligence.”**
