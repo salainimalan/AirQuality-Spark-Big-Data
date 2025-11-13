@@ -1,4 +1,11 @@
 #  Air Quality Analytics Dashboard — Big Data Framework Project (India)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Big%20Data-orange?logo=apachespark)
+![PySpark](https://img.shields.io/badge/PySpark-MLlib-red)
+![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?logo=amazonaws)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly)
+
 
 A **scalable Big Data–based air quality monitoring and visualization system** for India, built using **Apache Spark**, **AWS S3**, and **Streamlit**, covering data from **2016–2025**.  
 This project demonstrates **end-to-end Big Data engineering**, **data processing**, **machine learning**, and **visual analytics** on large-scale **OpenAQ** datasets.
@@ -72,9 +79,9 @@ Experience real-time air quality analytics with interactive maps, time-series vi
 
 ---
 
-##  GitHub Repository
+##  GitHub Repository Dashbaoard
 
-🔗 **[View Source Code on GitHub](https://github.com/salainimalan/AirQuality-Spark-Big-Data)**  
+🔗 **[View Source Code on GitHub](https://github.com/salainimalan/air-quality-dashboard-india)**  
 
 **Includes:**
 - Data processing notebooks  
@@ -89,8 +96,9 @@ Experience real-time air quality analytics with interactive maps, time-series vi
 
 | Name | Roll No | Role |
 |------|----------|------|
-| **Aditya Rao B** | 23MIA1120 | Data Engineer & Visualization Developer |
-| **Salai Nimalan** | 23MIA1064 | Spark Developer & ML Engineer |
+| **Salai Nimalan** | 23MIA1064 | 
+| **Aditya Rao B** | 23MIA1120 | 
+
 
 
 
