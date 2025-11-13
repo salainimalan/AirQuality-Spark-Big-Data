@@ -72,6 +72,7 @@ An interactive, end-to-end dashboard that enables:
 ---
 
 ##  Live Dashboard
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/a2c1c9f9-cdd2-420c-a313-b932ef677c63" />
 
 🔗 **[Launch Live Dashboard](https://air-quality-dashboard-india-yp4gq5musbegsrvfu7jgyg.streamlit.app/)**  
 
